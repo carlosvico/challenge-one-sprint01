@@ -5,7 +5,4 @@
 - O conversor de moeda deverá:
 
 [ x ] Converter de Reais a Dólar
-[ x ] Converter de Reais a Euro
-[ x ] Converter de Reais a Libras Esterlinas
-[ x ] Converter de Reais a Peso argentino
-[ x ] Converter de Reais a Peso Chileno
+
