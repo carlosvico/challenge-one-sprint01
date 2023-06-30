@@ -10,3 +10,5 @@
 - [x] Converter de Reais a Peso argentino
 - [x] Converter de Reais a Peso Chileno
 
+``` E tambem realizar as conversões inversas ```
+
