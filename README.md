@@ -3,7 +3,9 @@
 # As características solicitadas forão as seguintes:
 
 - O conversor de moeda deverá:
-- 
+[x] Fazer Rascunho do artigo
+[ ] Revisar artigo
+[ ] Publicar artigo 
 [x] Converter de Reais a Dólar
 [x] Converter de Reais a Euro
 [x] Converter de Reais a Libras Esterlinas
