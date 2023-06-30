@@ -4,5 +4,7 @@
 
 - O conversor de moeda deverá:
 
-[ x ] Converter de Reais a Dólar
+[x] Fazer Rascunho do artigo
+[ ] Revisar artigo
+[ ] Publicar artigo 
 
